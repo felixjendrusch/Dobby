@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Dobby.playground">
+   </FileRef>
+   <FileRef
       location = "group:Dobby.xcodeproj">
    </FileRef>
    <FileRef
